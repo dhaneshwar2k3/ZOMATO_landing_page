@@ -1,3 +1,3 @@
 # zomato landing page
 
-basic HTML and Css
+USING HTML AND CSS CREATING ZOMATO LANDING PAGE
